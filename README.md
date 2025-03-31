@@ -110,7 +110,7 @@ La aplicación cuenta con efectos visuales atractivos:
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/tip-calculator.git
+git clone https://github.com/Seb-RM/Javascript_Html_Css-Tip-Calculator.git
 ```
 
 2. Abre el proyecto en tu editor de código favorito
